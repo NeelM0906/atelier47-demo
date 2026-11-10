@@ -1,0 +1,19 @@
+[
+  { "group": "Consultations", "items": [
+    { "q": "How does the design retainer work?", "a": "The retainer reserves an hour with a designer and a bench jeweler. It is credited in full toward your commission. If we cannot make the piece you want, we refund it." },
+    { "q": "Can I consult virtually?", "a": "Yes. Video consultations run 45 minutes. We mail a free ring sizer and send stone videos before the call." },
+    { "q": "Do I need to know what I want before booking?", "a": "No. Most clients bring one photo or none. Use Design your ring if you would like to send us a starting point." } ] },
+  { "group": "Stones and pricing", "items": [
+    { "q": "Do you sell lab-grown diamonds?", "a": "Yes, and we will tell you plainly how they differ from natural stones in price and resale. Both come with an independent grading report, GIA or IGI." },
+    { "q": "What does a custom engagement ring cost?", "a": "Most of our engagement rings land between $6,000 and $40,000. Lab-grown centers start lower. Design your ring shows an illustrative range as you choose." },
+    { "q": "Can I bring my own stone?", "a": "Yes. We inspect and measure it first, and we confirm in writing that it is safe to set before any work starts." },
+    { "q": "Is your sourcing conflict-free?", "a": "Every diamond we buy comes through suppliers who comply with the Kimberley Process and the World Diamond Council System of Warranties. We ask for country of origin where it is available and share what we learn." } ] },
+  { "group": "Timing and payment", "items": [
+    { "q": "How long does a custom ring take?", "a": "About six weeks from consultation to delivery. Rush timelines of three to four weeks are possible for a fee, depending on the bench schedule." },
+    { "q": "How do payments work?", "a": "The retainer at booking, 50 percent at CAD approval, and the balance at delivery. We accept card, bank wire and Zelle. Financing can be arranged through a third-party lender." },
+    { "q": "What if I change my mind during the design?", "a": "Changes are free until you approve the CAD model. After casting begins, changes are quoted separately." } ] },
+  { "group": "After delivery", "items": [
+    { "q": "Do you offer a warranty?", "a": "Every piece we make carries a lifetime warranty against manufacturing defects, plus free cleaning and prong checks for as long as you own it." },
+    { "q": "Do you ship?", "a": "Yes, within the US, fully insured with signature required. International shipping is quoted on request." },
+    { "q": "Do you resize?", "a": "Yes. The first resize within a year is free for rings we made." } ] }
+]

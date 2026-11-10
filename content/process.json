@@ -1,0 +1,96 @@
+[
+  {
+    "id": "consult",
+    "phase": "Consult",
+    "when": "Week 0",
+    "summary": "An hour at the atelier or on video with a designer and the bench jeweler who will make your piece.",
+    "steps": [
+      {
+        "title": "Consultation",
+        "when": "Week 0, 60 minutes",
+        "detail": "We talk about the person, the hand, the budget and the date you are working toward. You try on sample settings in every shape and metal. Ilana sketches while you talk. You leave with a written brief and a budget split between stone and setting.",
+        "weeks": [
+          0,
+          0.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sketch",
+    "phase": "Sketch and stones",
+    "when": "Week 1",
+    "summary": "Hand sketches and a shortlist of three to five certified stones, side by side.",
+    "steps": [
+      {
+        "title": "Sketch and stone shortlist",
+        "when": "Week 1, 5 to 7 days",
+        "detail": "Priya sources three to five stones that fit the brief and sends each grading report with a video under daylight and under our lamp. You can view them in person before you choose. Two or three hand sketches arrive in the same message.",
+        "weeks": [
+          0.3,
+          1.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cad",
+    "phase": "CAD",
+    "when": "Weeks 2 to 3",
+    "summary": "A precise 3D model you can rotate on your phone. Two rounds of changes are included.",
+    "steps": [
+      {
+        "title": "CAD render",
+        "when": "Weeks 2 to 3",
+        "detail": "Sun-hee builds the ring to the millimeter around your actual stone. You get photoreal renders and a rotating model. Two rounds of revisions are included. A 50 percent deposit at CAD approval starts production.",
+        "weeks": [
+          1.3,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bench",
+    "phase": "At the bench",
+    "when": "Weeks 4 to 5",
+    "summary": "Cast in your chosen metal, then finished, set and polished in our suite on 47th Street.",
+    "steps": [
+      {
+        "title": "Casting",
+        "when": "Week 4",
+        "detail": "Your approved model is printed in wax and cast at our partner casting house two floors down. Elias cleans and files the raw casting, fits the band to your size and pre-polishes it.",
+        "weeks": [
+          3,
+          4
+        ]
+      },
+      {
+        "title": "Setting",
+        "when": "Week 5",
+        "detail": "Teodor sets the center stone under the microscope, checks every prong and adds any pavé or halo stones. You are welcome to watch your stone go in. Final polish and a quality check follow.",
+        "weeks": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "delivery",
+    "phase": "Delivery",
+    "when": "Week 6",
+    "summary": "Collect it in person, or receive it insured and signature-required anywhere in the US.",
+    "steps": [
+      {
+        "title": "Delivery",
+        "when": "Week 6",
+        "detail": "Collect in the atelier, or we ship fully insured with signature required. You receive the grading report, an independent-format appraisal for insurance, a care guide and free cleaning and prong checks for life.",
+        "weeks": [
+          5,
+          6
+        ]
+      }
+    ]
+  }
+]

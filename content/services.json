@@ -1,0 +1,12 @@
+[
+  { "id": "care", "title": "Cleaning and inspection", "price": "Complimentary for our pieces. $35 for others.", "turnaround": "While you wait, about 20 minutes",
+    "detail": "Ultrasonic and steam cleaning, a prong check under the microscope and a polish of the band. We recommend it every six months for a ring you wear daily." },
+  { "id": "resizing", "title": "Resizing", "price": "From $85 in gold, $150 in platinum", "turnaround": "3 to 5 business days",
+    "detail": "Up or down by up to two sizes on most rings. Eternity and some pavé bands cannot be resized, and we will say so before we start. First resize free within a year on pieces we made." },
+  { "id": "repair", "title": "Repair and restoration", "price": "Prong retipping from $60 per prong. Quoted after inspection.", "turnaround": "1 to 3 weeks",
+    "detail": "Retipping, rebuilding worn shanks, replacing lost melee, re-rhodium plating for white gold and restoring engraving. We quote in writing before any work begins." },
+  { "id": "appraisal", "title": "Insurance appraisal", "price": "$150 for the first piece, $75 each additional", "turnaround": "2 business days, or same day by appointment",
+    "detail": "A written appraisal for insurance replacement value with measurements, photographs and stone grades. Prepared by our gemologist in house. We price it per piece, never as a percentage of value." },
+  { "id": "redesign", "title": "Heirloom redesign", "price": "Book a consultation. Retainer credited to the work.", "turnaround": "5 to 8 weeks",
+    "detail": "Reuse a family stone or metal in a new design. We test and grade your stones first and tell you honestly what can be reused safely." }
+]

@@ -1,0 +1,199 @@
+{
+  "demo": true,
+  "brand": {
+    "name": "Atelier47",
+    "legalName": "Atelier47 Fine Jewelry LLC (demo)",
+    "tagline": "Engagement rings made with you, on 47th Street.",
+    "shortDescription": "A private custom jewelry atelier in the Diamond District. Design your engagement ring with the people who will make it.",
+    "founded": 2009,
+    "monogram": "A47"
+  },
+  "site": {
+    "baseUrl": "https://atelier47.example",
+    "locale": "en_US",
+    "themeColor": "#F7F3EC"
+  },
+  "colors": {
+    "ivory": "#F7F3EC",
+    "paper": "#FBF9F5",
+    "linen": "#EFE8DC",
+    "ink": "#1F1D1A",
+    "graphite": "#4A4640",
+    "muted": "#6B655C",
+    "champagne": "#C9B48A",
+    "champagneDeep": "#7A5F33",
+    "line": "#DDD3C2"
+  },
+  "contact": {
+    "phone": "+1 212-555-0147",
+    "phoneHref": "+12125550147",
+    "email": "studio@atelier47.example",
+    "whatsapp": "12125550147",
+    "address": {
+      "street": "47 West 47th Street, Suite 1200",
+      "locality": "New York",
+      "region": "NY",
+      "postalCode": "10036",
+      "country": "US"
+    },
+    "geo": {
+      "lat": 40.7573,
+      "lng": -73.9801
+    },
+    "entryNote": "Building lobby security asks for a photo ID. Tell the desk you are visiting Atelier47, Suite 1200. Take the east elevators.",
+    "transit": "B, D, F, M to 47-50 Sts Rockefeller Center. 7 to 5 Av. A two minute walk from either.",
+    "hours": [
+      {
+        "days": [
+          "Mo",
+          "Tu",
+          "We",
+          "Th"
+        ],
+        "label": "Monday to Thursday",
+        "short": "Mon to Thu",
+        "opens": "10:00",
+        "closes": "18:00"
+      },
+      {
+        "days": [
+          "Fr"
+        ],
+        "label": "Friday",
+        "short": "Fri",
+        "opens": "10:00",
+        "closes": "14:00"
+      },
+      {
+        "days": [
+          "Sa"
+        ],
+        "label": "Saturday",
+        "short": "Sat",
+        "closed": true
+      },
+      {
+        "days": [
+          "Su"
+        ],
+        "label": "Sunday",
+        "short": "Sun",
+        "opens": "11:00",
+        "closes": "16:00"
+      }
+    ],
+    "social": {
+      "instagram": "https://www.instagram.com/atelier47.example",
+      "pinterest": "https://www.pinterest.com/atelier47example"
+    }
+  },
+  "consultation": {
+    "retainer": 250,
+    "currency": "USD",
+    "credited": true,
+    "durationMinutes": 60,
+    "virtualDurationMinutes": 45,
+    "retainerCopy": "A $250 design retainer reserves your hour with a designer and a bench jeweler. It is credited in full toward your commission. If we cannot make the piece you want, we refund it.",
+    "refundCopy": "Reschedule free up to 24 hours ahead. Cancel more than 48 hours ahead for a full refund.",
+    "slotTimes": [
+      "10:00",
+      "11:30",
+      "13:00",
+      "14:30",
+      "16:00"
+    ],
+    "leadDays": 1,
+    "windowDays": 28,
+    "types": [
+      {
+        "id": "engagement",
+        "label": "Engagement ring"
+      },
+      {
+        "id": "bands",
+        "label": "Wedding bands"
+      },
+      {
+        "id": "redesign",
+        "label": "Redesign an heirloom"
+      },
+      {
+        "id": "fine",
+        "label": "Earrings, pendant or other fine jewelry"
+      }
+    ]
+  },
+  "endpoints": {
+    "booking": "",
+    "inquiry": "",
+    "service": "",
+    "contact": ""
+  },
+  "pricingGuide": {
+    "enabled": true,
+    "note": "Illustrative ranges for a G to H color, VS2 to SI1 center stone. Your quote follows the consultation and the stone you choose.",
+    "naturalPerCaratAt1": 7200,
+    "naturalExponent": 1.55,
+    "labPerCaratAt1": 900,
+    "labExponent": 1.25,
+    "setting": {
+      "solitaire": 1600,
+      "halo": 2600,
+      "three-stone": 3400,
+      "pave": 2400,
+      "bezel": 1800,
+      "vintage": 3000,
+      "east-west": 1800,
+      "toi-et-moi": 2800
+    },
+    "metal": {
+      "platinum": 500,
+      "white": 0,
+      "yellow": 0,
+      "rose": 0
+    },
+    "spread": 0.18
+  },
+  "team": [
+    {
+      "id": "ilana",
+      "name": "Ilana Roth",
+      "role": "Founder and lead designer",
+      "credential": "Graduate Gemologist (placeholder credential)",
+      "years": 17,
+      "bio": "Ilana trained at a Rhode Island casting house before opening the atelier in 2009. She sits in on every first consultation and draws the first sketch by hand while you talk."
+    },
+    {
+      "id": "teodor",
+      "name": "Teodor Vasquez",
+      "role": "Master setter",
+      "credential": "Bench since 1998",
+      "years": 28,
+      "bio": "Teodor sets every center stone under the microscope and checks each prong twice before it leaves his bench. He likes clients to see their stone go in."
+    },
+    {
+      "id": "sunhee",
+      "name": "Sun-hee Park",
+      "role": "CAD designer",
+      "credential": "Matrix and Rhino",
+      "years": 11,
+      "bio": "Sun-hee turns the sketch into a rotating 3D model you can approve on your phone. She will adjust a gallery rail by a tenth of a millimeter if you ask."
+    },
+    {
+      "id": "elias",
+      "name": "Elias Mendel",
+      "role": "Bench jeweler and polisher",
+      "credential": "Third generation on 47th Street",
+      "years": 22,
+      "bio": "Elias cleans up each casting, fits the band, and gives the final polish. He also handles resizing and repairs for anything we have made."
+    },
+    {
+      "id": "priya",
+      "name": "Priya Raman",
+      "role": "Client advisor",
+      "credential": "Stone sourcing",
+      "years": 8,
+      "bio": "Priya is your single point of contact. She sources the stone shortlist, sends every update, and answers WhatsApp messages the same day."
+    }
+  ]
+}
